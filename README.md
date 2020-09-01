@@ -1,3 +1,4 @@
 # projeto_02
+## Simple landing page
  
-second project made in the course *Danki Code*
+my second project
